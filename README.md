@@ -2,6 +2,8 @@
 Integrantes :
 
 Maximiliano Orellana
+-edad : 21
+-residencia : lanus
 
 Rocio Yapura
 
